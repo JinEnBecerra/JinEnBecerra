@@ -84,6 +84,7 @@ I'm intentionally using the time outside my full-time case management role to st
 
 ## ✅ Completed Learning
 - The Complete SQL Bootcamp: Go from Zero to Hero (Udemy)
+- Tableau A-Z: Hands-On Tableau Training for Data Science (Udemy)
 
 <br>
 
