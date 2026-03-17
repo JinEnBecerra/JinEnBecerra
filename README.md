@@ -65,7 +65,7 @@ I'm intentionally using the time outside my full-time case management role to st
 
 ### 🔹 Olist E-commerce Data Exploration (in progress)
 **Tools:** SQL, Tableau  
-**Focus:** Delivery performance, customer experience, and seller behavior  
+**Focus:** Business performance over time, Delivery and customer experience, Key factors driving revenue
 **Goal:** Practicing business-driven questioning rather than just writing queries  
 
 👉 Project repo: https://github.com/JinEnBecerra/sql-olist-ecommerce-exploration
@@ -80,19 +80,11 @@ I'm intentionally using the time outside my full-time case management role to st
 
 <br>
 
----
-
-## ✅ Completed Learning
-- The Complete SQL Bootcamp: Go from Zero to Hero (Udemy)
-- Tableau A-Z: Hands-On Tableau Training for Data Science (Udemy)
-
-<br>
 
 ---
 
 ## 📌 Current Focus
 Right now I'm focused on:
-- Finishing my first data exploration project  
 - Strengthening storytelling through Tableau dashboards  
 - Staying consistent with small, daily progress
 
