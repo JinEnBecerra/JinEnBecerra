@@ -35,7 +35,7 @@ As a native Mandarin speaker, I taught myself English and Spanish to a level tha
 
 Through language learning, I’ve developed a deeper appreciation for how people from different backgrounds interpret information, express needs, and approach problem-solving. This cross-cultural perspective has strengthened my ability to recognize patterns in human behavior — a mindset that naturally complements my growing interest in data analytics.
 
-**Data analytics feels like the natural bridge between my curiosity about people and my desire to make better decisions — and, of course, the hope for a better paycheck.**
+**Data analytics feels like the natural bridge between my curiosity about people and my desire to make better decisions.**
 
 I'm intentionally using the time outside my full-time case management role to steadily build the technical skills needed to support this instinct.
 
@@ -63,7 +63,7 @@ I'm intentionally using the time outside my full-time case management role to st
 - Tableau dashboard storytelling & visualization  
 - Excel (Pivot Tables, Lookups, formulas, charts)
 
-### 🔹 Olist E-commerce Data Exploration (in progress)
+### 🔹 Olist E-commerce Data Exploration
 **Tools:** SQL, Tableau  
 **Focus:** Business performance over time, Delivery and customer experience, Key factors driving revenue
 **Goal:** Practicing business-driven questioning rather than just writing queries  
@@ -97,6 +97,6 @@ If you're also learning data, transitioning careers, or just want to talk about 
 I’m also open to connecting with recruiters and hiring teams who resonate with my journey.
 
 - LinkedIn: (www.linkedin.com/in/elijah-becerra-ba0a56209)
-- Email: (jinenbecerra@gmail.com)
+- Email: (elijahbecerrakc@gmail.com)
 
 Thanks for stopping by ✨
